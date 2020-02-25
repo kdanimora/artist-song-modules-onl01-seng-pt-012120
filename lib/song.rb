@@ -37,3 +37,7 @@ class Song
     name.downcase.gsub(' ', '-')
   end
 end 
+
+
+#new_song = Song.new
+#new_song.class => Song 
